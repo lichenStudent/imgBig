@@ -73,7 +73,7 @@ const CGFloat ZYTopViewH = 350;
 
 - (void)imgAction:(UITapGestureRecognizer *)tap
 {
-    NSLog(@"1212121");
+    NSLog(@"12121");
 }
 
 - (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section
